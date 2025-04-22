@@ -27,3 +27,5 @@ SCRT-Metals is a decentralized asset tokenization project designed to bring phys
 ---
 
 ## 📦 Repository Structure
+
+scrt-metals/ │ ├── contracts/ # SNIP-20 secret contracts (SGOLD/SSILVER) ├── frontend/ # React wallet interface (planned) ├── docs/ # Technical specs and whitepaper ├── LICENSE # Apache 2.0 license └── README.md # Project documentation
