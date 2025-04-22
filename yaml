@@ -1,0 +1,27 @@
+## 🔑 Token Details (Planned)
+
+| Token    | Symbol  | Privacy | Backing |
+|----------|---------|---------|---------|
+| SGOLD    | SGOLD   | ✅ Yes  | 1 token = 1g physical gold (future model) |
+| SSILVER  | SSILVER | ✅ Yes  | 1 token = 1g physical silver (future model) |
+
+---
+
+## 📆 Milestones
+
+| Milestone          | Deliverable                                      | Timeline        |
+|--------------------|--------------------------------------------------|-----------------|
+| **MVP Contracts**  | SNIP-20 for SGOLD & SSILVER w/ private transfers | 3–4 weeks       |
+| **Front-end UI**   | Minimal wallet-ready UI (React + SecretJS)       | +2 weeks        |
+| **Custodial Model**| Model & docs for redemption / compliance         | +2 weeks        |
+| **Community Testing** | Devnet launch + full documentation            | +1 week         |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/duvelltech/scrt-metals.git
+cd scrt-metals
